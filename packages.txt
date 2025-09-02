@@ -3,3 +3,6 @@ libsm6
 libxext6
 libgl1
 libglib2.0-0
+libgomp1
+libxrender1
+libxss1
